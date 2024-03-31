@@ -1,0 +1,7 @@
+flask
+requests
+opencv-python-headless
+bs4
+pymongo
+m3u8
+pillow
